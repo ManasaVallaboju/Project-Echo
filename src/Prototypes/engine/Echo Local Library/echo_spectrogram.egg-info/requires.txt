@@ -2,6 +2,6 @@ IPython
 matplotlib
 numpy
 librosa
-tensorflow==2.10.1
+tensorflow==2.12.0rc1
 soundfile
 audiomentations
