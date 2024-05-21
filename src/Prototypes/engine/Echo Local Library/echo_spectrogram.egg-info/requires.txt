@@ -5,3 +5,4 @@ librosa
 tensorflow==2.10.1
 soundfile
 audiomentations
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
