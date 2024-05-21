@@ -16,3 +16,4 @@ tensorflow-addons
 tensorflow_hub
 tensorflow_io
 xgboost
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
