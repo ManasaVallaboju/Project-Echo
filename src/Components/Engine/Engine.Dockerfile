@@ -1,5 +1,5 @@
 # Use an official TensorFlow GPU image as the base image
-FROM tensorflow/tensorflow:latest-gpu
+FROM tensorflow/tensorflow:2.20.0rc0-gpu
 #FROM python:3.9
 
 # Set the working directory
